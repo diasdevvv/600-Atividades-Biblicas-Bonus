@@ -1,24 +1,24 @@
 import { CarouselSlide, WhatsAppSlide, FAQItem } from './types';
 
 export const CAROUSEL_SLIDES: CarouselSlide[] = [
-  { title: "Atividade 1", image: "/produtosImagens/1-724x1024.png" },
-  { title: "Atividade 2", image: "/produtosImagens/2-724x1024.png" },
-  { title: "Atividade 3", image: "/produtosImagens/3-724x1024.png" },
-  { title: "Atividade 4", image: "/produtosImagens/4-724x1024.png" },
-  { title: "Atividade 5", image: "/produtosImagens/5-724x1024.png" },
-  { title: "Alfabeto Bíblico", image: "/produtosImagens/ALFABETO-BIBLICO-INFANTIL-1-724x1024.png" },
-  { title: "Antigo Testamento", image: "/produtosImagens/ANTIGO-TESTAMENTO-1-724x1024.png" },
-  { title: "Aprendendo a Orar", image: "/produtosImagens/APRENDENDO-A-ORAR-724x1024.png" },
-  { title: "Aprendendo com Alegria", image: "/produtosImagens/APRENDENDO-COM-ALEGRIA-724x1024.png" },
-  { title: "Passatempo Bíblico", image: "/produtosImagens/PASSATEMPO-BIBLICO-724x1024.png" },
+  { title: "Atividade 1", image: "produtosImagens/1-724x1024.png" },
+  { title: "Atividade 2", image: "produtosImagens/2-724x1024.png" },
+  { title: "Atividade 3", image: "produtosImagens/3-724x1024.png" },
+  { title: "Atividade 4", image: "produtosImagens/4-724x1024.png" },
+  { title: "Atividade 5", image: "produtosImagens/5-724x1024.png" },
+  { title: "Alfabeto Bíblico", image: "produtosImagens/ALFABETO-BIBLICO-INFANTIL-1-724x1024.png" },
+  { title: "Antigo Testamento", image: "produtosImagens/ANTIGO-TESTAMENTO-1-724x1024.png" },
+  { title: "Aprendendo a Orar", image: "produtosImagens/APRENDENDO-A-ORAR-724x1024.png" },
+  { title: "Aprendendo com Alegria", image: "produtosImagens/APRENDENDO-COM-ALEGRIA-724x1024.png" },
+  { title: "Passatempo Bíblico", image: "produtosImagens/PASSATEMPO-BIBLICO-724x1024.png" },
 ];
 
 export const WHATSAPP_SLIDES: WhatsAppSlide[] = [
-  { images: ["/assets/IMG-5312-1-1.webp"] },
-  { images: ["/assets/IMG-5315-1-1.webp"] },
-  { images: ["/assets/fakedm-generator-com-2-1-1.webp", "/assets/fakedm-generator-com-3-1-1.webp"] },
-  { images: ["/assets/fakedm-generator-com-5-1.webp", "/assets/fakedm-generator-com-6-1-1.webp"] },
-  { images: ["/assets/fakedm-generator-com-1-1-1.webp"] }
+  { images: ["assets/IMG-5312-1-1.webp"] },
+  { images: ["assets/IMG-5315-1-1.webp"] },
+  { images: ["assets/fakedm-generator-com-2-1-1.webp", "assets/fakedm-generator-com-3-1-1.webp"] },
+  { images: ["assets/fakedm-generator-com-5-1.webp", "assets/fakedm-generator-com-6-1-1.webp"] },
+  { images: ["assets/fakedm-generator-com-1-1-1.webp"] }
 ];
 
 export const FAQ_ITEMS: FAQItem[] = [

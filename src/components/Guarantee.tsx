@@ -7,7 +7,7 @@ export const Guarantee: React.FC = () => {
       <div className="container">
         <div className="guarantee-card">
           <img 
-            src="/assets/selo_gatanrtia_7_dias.webp" 
+            src="assets/selo_gatanrtia_7_dias.webp" 
             alt="Garantia de 7 Dias" 
             className="guarantee-seal-img"
             referrerPolicy="no-referrer"

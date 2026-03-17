@@ -17,7 +17,7 @@ export const Hero: React.FC<HeroProps> = ({ onCtaClick }) => {
         
         <div className="books-showcase">
           <img 
-            src="/assets/hero_image.png" 
+            src="assets/hero_image.png" 
             alt="600+ Atividades Bíblicas para Crianças" 
             className="books-image"
             referrerPolicy="no-referrer"

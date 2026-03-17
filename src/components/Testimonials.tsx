@@ -10,7 +10,7 @@ export const Testimonials: React.FC = () => {
         <div className="testimonials-grid">
           {[1, 2, 3, 4].map((i) => (
             <div key={i} className="testimonial-card">
-              <img key={i} src={`/assets/testemunho${i}.png`} alt="Testemunho" className="testimonial-image" referrerPolicy="no-referrer" loading="lazy" />
+              <img key={i} src={`assets/testemunho${i}.png`} alt="Testemunho" className="testimonial-image" referrerPolicy="no-referrer" loading="lazy" />
             </div>
           ))}
         </div>
